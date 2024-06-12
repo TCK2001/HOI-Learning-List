@@ -135,6 +135,11 @@ More...
 More...
 
 ### HOI Detection: Instance-based, to detect the human-object pairs and classify the interactions.
+- EPAHOI (CVPR 2024) [[Paper]](https://openaccess.thecvf.com//content/CVPR2024/papers/Wu_Exploring_Pose-Aware_Human-Object_Interaction_via_Hybrid_Learning_CVPR_2024_paper.pdf)
+
+- SICHOI (CVPR 2024) [[Paper]](https://openaccess.thecvf.com//content/CVPR2024/papers/Luo_Discovering_Syntactic_Interaction_Clues_for_Human-Object_Interaction_Detection_CVPR_2024_paper.pdf)
+
+- BCOM (CVPR 2024) [[Paper]](https://openaccess.thecvf.com//content/CVPR2024/papers/Wang_Bilateral_Adaptation_for_Human-Object_Interaction_Detection_with_Occlusion-Robustness_CVPR_2024_paper.pdf)
 
 - DP-HOI (CVPR 2024), [[Paper]](https://arxiv.org/pdf/2404.01725.pdf), [[Code]](https://github.com/xingaoli/DP-HOI)
 
